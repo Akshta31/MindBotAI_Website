@@ -80,7 +80,6 @@ npm start
 The server will start on the specified PORT (default: 3000). You can access:
 - Frontend: http://localhost:3000
 
-
 ## API Endpoints
 
 ### Authentication
