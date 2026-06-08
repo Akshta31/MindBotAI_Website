@@ -1,5 +1,4 @@
 # TODO: Enhance MindBot AI Backend
-
 - [ ] Debug signup functionality issue
 - [ ] Enhance mood tracker with additional insights
 - [ ] Enhance exercises with guided sessions
