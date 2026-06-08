@@ -6,4 +6,5 @@
   - [x] Install openai package
   - [x] Create .env file with OPENAI_API_KEY
   - [x] Modify routes/chat.js to use OpenAI
+        
 - [ ] Test all enhancements
