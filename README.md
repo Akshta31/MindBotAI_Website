@@ -1,4 +1,4 @@
-# MindBot 
+# MindBot AI
 
 Backend API for MindBot AI, a mental health chatbot designed to provide support, resources, and conversational assistance for mental well-being.
 
