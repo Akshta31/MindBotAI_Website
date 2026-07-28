@@ -13,7 +13,6 @@ Backend API for MindBot AI, a mental health chatbot designed to provide support,
 - **Database**: SQLite database for data persistence
 
 ## Tech Stack
-
 - **Backend**: Node.js, Express.js
 - **Database**: SQLite3
 - **Authentication**: JWT (JSON Web Tokens), bcryptjs for password hashing
