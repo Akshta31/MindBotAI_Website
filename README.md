@@ -3,7 +3,6 @@
 Backend API for MindBot AI, a mental health chatbot designed to provide support, resources, and conversational assistance for mental well-being.
 
 ## Features
-
 - **User Authentication**: Secure registration and login with JWT tokens
 - **AI-Powered Chat**: Integration with OpenAI for intelligent conversational responses
 - **Mood Tracking**: Users can log and track their mood over time
